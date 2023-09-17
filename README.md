@@ -1,4 +1,4 @@
-# This React App is used to search movie database using api to get overview, rating and release date from https://www.themoviedb.org/
+This React App is used to search movie database using api to get overview, rating and release date from https://www.themoviedb.org/
 
 # Getting Started with Create React App
 
