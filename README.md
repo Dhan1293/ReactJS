@@ -1,3 +1,5 @@
+# This React App is used to search movie database using api to get overview, rating and release date from https://www.themoviedb.org/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
